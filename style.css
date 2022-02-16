@@ -1,0 +1,32 @@
+.box{
+    margin: 4% 3% 5% 2%;
+}
+.container{
+    align-items: center
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.part1{
+    width:280px;
+    border: 2px solid rgb(182, 181, 181);
+    border-radius: 8px;
+    padding-left:25px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    margin: 40px 20px 20px 60px;
+}
+h2{
+    
+    text-align:left;
+    font-size:18px;
+    color: black;
+}
+h5{
+    text-align:left;
+    font-size:12px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    }
